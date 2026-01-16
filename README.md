@@ -1,4 +1,5 @@
 One app with everything you need to lock tf in
+
 This app should be called LockIn but that wasn't a phrase when I made it, so it's called TapIn.
 
 Pomodoro + Impenetrable website blocker + Tunes + a few more things.
@@ -6,10 +7,10 @@ Pomodoro + Impenetrable website blocker + Tunes + a few more things.
 When a pomodoro session is active, the website blocker automatically turns on.
 
 ### Pomodoro
-<img width="1187" height="794" alt="Screenshot 2026-01-16 at 17 29 00" src="https://github.com/user-attachments/assets/fd504d27-24da-41da-9c26-d79340cfe2f0" />
+<img width="850" height="570" alt="Screenshot 2026-01-16 at 17 29 00" src="https://github.com/user-attachments/assets/fd504d27-24da-41da-9c26-d79340cfe2f0" />
 
 ### Website Blocker
-<img width="1187" height="795" alt="Screenshot 2026-01-16 at 17 29 29" src="https://github.com/user-attachments/assets/7e23a1ca-60bc-47c7-a826-248f97bd895e" />
+<img width="850" height="570" alt="Screenshot 2026-01-16 at 17 29 29" src="https://github.com/user-attachments/assets/7e23a1ca-60bc-47c7-a826-248f97bd895e" />
 
 ### Tunes
 <div style="display: inline-block;">
@@ -19,4 +20,4 @@ When a pomodoro session is active, the website blocker automatically turns on.
 </div>
 
 ### Settings
-<img width="1189" height="797" alt="Screenshot 2026-01-16 at 17 30 02" src="https://github.com/user-attachments/assets/1910d761-ba06-49ae-9b8c-1857edfb68bd" />
+<img width="850" height="570" alt="Screenshot 2026-01-16 at 17 30 02" src="https://github.com/user-attachments/assets/1910d761-ba06-49ae-9b8c-1857edfb68bd" />
